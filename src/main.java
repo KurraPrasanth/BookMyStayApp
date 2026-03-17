@@ -6,4 +6,3 @@ public class main {
                 System.out.println("System initialized successfully.");
             }
         }
-
